@@ -1,6 +1,6 @@
 # Privacy Policy for blanc
 
-**Last updated:** 4th January 2026
+**Last updated:** 17th January 2026
 
 blanc is developed by Thomas King. Your privacy is important to us, and this app is designed to respect it.
 
@@ -10,8 +10,11 @@ This Privacy Policy applies to the blanc iOS application distributed via the App
 
 ## Information We Collect
 
-blanc does not collect, store, or process any personal data.  
-The app does not use analytics, tracking technologies, advertising identifiers, or user accounts.
+blanc does not collect, store, or process personal data through the Application itself.
+
+We do not use analytics, tracking technologies, advertising identifiers, or user accounts.
+
+If you voluntarily contact us for support via email, we will receive your email address and any information you include in your message. This information is used solely to respond to your enquiry and provide support.
 
 ---
 
